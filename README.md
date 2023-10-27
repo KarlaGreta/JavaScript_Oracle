@@ -2,15 +2,22 @@
 
 
 [Conversor de Monedas que usa una Api Free](https://github.com/KarlaGreta/JavaScript_Oracle/tree/main/conversores/Criptomonedas)
+ <h4>Comvierte criptomonedas a precio real </h4> 
     <p align="center">
       <img  src="https://github.com/KarlaGreta/JavaScript_Oracle/assets/109876143/94dabf69-7d99-408a-9b47-6568b1fb8da9" />
     </p>
+    
+[Juego EL Mentalista](https://github.com/KarlaGreta/JavaScript_Oracle/tree/main/conversores/Temperatura)
+ <h4>Es un juego para adivinar el numero del 1 al 10000 ,tienes 10 intentos</h4>  
+<p align="center">
+    <img width="30%" src="https://github.com/KarlaGreta/JavaScript_Oracle/assets/109876143/0ffe7015-e3a9-4fe7-ad51-4726c4a74b81"/>  <img  width="30%" 
+ src="https://github.com/KarlaGreta/JavaScript_Oracle/assets/109876143/50d942f4-30b8-4425-96e9-80f0fb99dccd"/>
+</p>
      
-[Conversor de Temperatura](https://github.com/KarlaGreta/JavaScript_Oracle/tree/main/conversores/Temperatura)
+[Conversor de Temperatura](https://github.com/KarlaGreta/JavaScript_Oracle/tree/main/Mentalista)
   
-   
 <p align="center">
     <img  src="https://github.com/KarlaGreta/JavaScript_Oracle/assets/109876143/f9730fdc-f49f-44d0-862b-087d4feabf80" />
-  </p>
+</p>
 
 
