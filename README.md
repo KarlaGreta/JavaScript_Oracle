@@ -2,10 +2,11 @@
 
 
 [Conversor de Monedas que usa una Api Free](https://github.com/KarlaGreta/JavaScript_Oracle/tree/main/conversores/Criptomonedas)
- <h4>Comvierte criptomonedas a precio real </h4> 
-    <p align="center">
-      <img  src="https://github.com/KarlaGreta/JavaScript_Oracle/assets/109876143/94dabf69-7d99-408a-9b47-6568b1fb8da9" />
-    </p>
+ <h4>Comvierte criptomonedas en tiempo real </h4>
+<a href="https://codepen.io/karla-chavez-the-builder/pen/KKJdXxE">Link a CodePen</a>
+ <p align="center">
+    <img  src="https://github.com/KarlaGreta/JavaScript_Oracle/assets/109876143/94dabf69-7d99-408a-9b47-6568b1fb8da9" />
+  </p>
     
 [Juego EL Mentalista](https://github.com/KarlaGreta/JavaScript_Oracle/tree/main/conversores/Temperatura)
  <h4>Es un juego para adivinar el numero del 1 al 10000 ,tienes 10 intentos</h4>  
