@@ -1,4 +1,4 @@
-<h1 align="center">Projectos del curos de Oracle con JavaScript </h1>
+<h1 align="center">Projectos del cursos de Oracle con JavaScript </h1>
 
 
 [Conversor de Monedas que usa una API REST](https://github.com/KarlaGreta/JavaScript_Oracle/tree/main/conversores/Criptomonedas)
