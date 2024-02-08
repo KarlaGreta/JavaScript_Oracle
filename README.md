@@ -3,7 +3,7 @@
 
 [Conversor de Monedas que usa una API REST](https://github.com/KarlaGreta/JavaScript_Oracle/tree/main/conversores/Criptomonedas)
  <h4>Comvierte criptomonedas en tiempo real </h4>
-<a href="https://codepen.io/karla-chavez-the-builder/pen/KKJdXxE">Link a CodePen</a>
+<a href="https://codepen.io/karla-chavez-the-builder/pen/KKJdXxE" target="_blank">LINK A LA PAGINA WEB EN CODE PEN</a>
  <p align="center">
     <img  src="https://github.com/KarlaGreta/JavaScript_Oracle/assets/109876143/94dabf69-7d99-408a-9b47-6568b1fb8da9" />
   </p>
